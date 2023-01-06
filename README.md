@@ -29,7 +29,7 @@ Occupation and State must be selected from a dropdown list. The options for the 
 ### General
 
 * Project completed using React.JS and TailwindCSS.
-* The form validation is handled natively by the browser with the addition of a warning if the user clears clears a field entirely.
+* The form validation is handled natively by the browser with the addition of a warning if the user clears a field entirely.
 
 ### Form
 * The form is built using 4 separate components: FormComponent.js, InputField.js, SelectField.js, and FormButton.js.
@@ -51,4 +51,4 @@ Occupation and State must be selected from a dropdown list. The options for the 
 ## Testing
 
 * Testing was performed using the webhook.site API. 
-* Accessibility tested using VoiceOver on MacOS.
+* Basic Accessibility tested using VoiceOver on MacOS.
